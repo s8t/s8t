@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @s8t
+- 🚀 I'm working on https://aiol.ink
