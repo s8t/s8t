@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @s8t
-- 🚀 I'm working on https://aiol.ink
+c++, c#, nim, ts, py, php, sql
